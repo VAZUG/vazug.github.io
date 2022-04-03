@@ -20,7 +20,7 @@ Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi
 
 ## Tala
 
-Är du intresserad att tala på något av våra event? Hör av dig genom att fylla i formuläret nedan. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg.
+Är du intresserad att tala på något av våra event? Hör av dig genom att fylla i formuläret nedan. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg som talare.
 
 ## Arrangörer
 
