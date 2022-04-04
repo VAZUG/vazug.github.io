@@ -26,7 +26,7 @@ Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi
 
 ### Stefan Ivemo - grundare
 
-Jag är person som älskar nya teknier och att lära mig förstå hur de fungerar på djupet. Sedan 2015 spenderar jag nästan all min tid med Microsoft Azure och en del Microsoft 365. Under 2021 fick jag utmärkelsen Microsoft MVP - Azure för mitt arbete inom communityn.
+Jag är person som älskar nya tekniker och att lära mig förstå hur de fungerar på djupet. Sedan 2015 spenderar jag nästan all min tid med Microsoft Azure och en del Microsoft 365. Under 2021 fick jag utmärkelsen Microsoft MVP - Azure för mitt arbete inom communityn.
 
 ## Sponsorer
 
