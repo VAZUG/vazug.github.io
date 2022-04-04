@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Västerås Azure User Group
+# Västerås Azure User Group <a name="VAZUG"></a>
 
 Välkommen till Västerås Azure User Group! Denna user group är till för att samla IT communityn i Västerås med omnejd. Gruppen drivs av communityn för communityn med målet att leverera den typ av innehåll, talare och erfarenheter som IT communityn i Västerås vill ha. Gruppen är uppen för allt utvecklare, arkitekter, konsulter, tekniker, studenter, entusiaster med flera. Är du intresserad av Azure eller Microsoft 365 är detta platsen för dig!
 
