@@ -30,4 +30,4 @@ Jag är person som älskar nya tekniker och att lära mig förstå hur de funger
 
 ## Sponsorer
 
-Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på meetup@vazug.cloud!
+Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på [meetup@vazug.cloud](mailto:meetup@vazug.cloud)!
