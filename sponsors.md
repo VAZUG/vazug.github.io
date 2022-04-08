@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Sponsors
-description: Meet our sponsors
+description: Meet our sponsors!
 ---
 
 ## Sponsorer
 
 Stort tack till våra sponsorer som ser till så att vi kan anordna våra Västerås Azure User Group träffar! ❤️
-</br>
+
+
 ![Advania](./media/sponsors/advania.png "Advania")
 
 ## Bli en sponsor
