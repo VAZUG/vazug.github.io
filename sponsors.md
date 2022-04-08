@@ -4,13 +4,12 @@ title: Sponsors
 description: Meet our sponsors!
 ---
 
-## Sponsorer❤️
+## Våra sponsorer! ❤️
 
 Stort tack till våra sponsorer som ser till så att vi kan anordna våra Västerås Azure User Group träffar!
 
 
-![Advania](./media/sponsors/advania.png "Advania")
-![Sogeti](./media/sponsors/sogeti.png "Sogeti")
+![Advania](./media/sponsors/advania.png "Advania")  ![Sogeti](./media/sponsors/sogeti.png "Sogeti")
 
 ## Bli en sponsor!
 
