@@ -28,6 +28,10 @@ Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi
 
 Stefan är en person som älskar nya tekniker och att lära sig förstå hur de fungerar på djupet. Sedan 2015 spenderar han nästan all sin tid med Microsoft Azure och även en liten del Microsoft 365. Han är Microsoft MVP i kategorin Azure sedan 2021. Stefan brinner starkt för open source och är aktiv contributor till flera projekt bl.a. [Bicep](https://github.com/Azure/bicep), [AzOps](https://github.com/Azure/AzOps), [PSBicep](https://github.com/PSBicep/PSBicep) och [docs.microsoft.com](https://github.com/MicrosoftDocs/azure-docs).
 
+### Anders Asp
+
+...
+
 ## Sponsorer
 
 Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på [meetup@vazug.cloud](mailto:meetup@vazug.cloud)!
