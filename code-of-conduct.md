@@ -10,7 +10,7 @@ Västerås Azure User Group är dedikerade till att skapa en community där alla
 
 Om du har närvarat på något av våra event och upplever att någon brutit mot vår uppförandekod kan du göra något av följande:
 
-- Fyll i detta [formulär](https://forms.office.com/Pages/ResponsePage.aspx?id=FqZZ0p1OFUa4PS4JpmNv1NqDiz2X029Oloo7YbJkVYFUNFFDVzJWSVFRUDVUMlFTRUJONlBOOVFOTi4u). Det görs helt anonymt med möjlighet att lämna kontaktuppgifter om du vill.
+- Fyll i detta [formulär](https://forms.office.com/r/vvfYUAJZkq). Det görs helt anonymt med möjlighet att lämna kontaktuppgifter om du vill.
 - Kontakta någon av våra arrangörer.
 
 [back](./)
