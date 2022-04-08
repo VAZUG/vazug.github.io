@@ -13,4 +13,4 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ## Bli en sponsor!
 
-Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på meetup@vazug.cloud!
+Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på [meetup@vazug.cloud](mailto:meetup@vazug.cloud)!
