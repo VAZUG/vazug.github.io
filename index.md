@@ -9,7 +9,7 @@ Välkommen till Västerås Azure User Group! Denna user group är till för att 
 
 ## Kom på en träff
 
-Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Att delta på en träff är helt kostnadsfritt för dig som deltagare, men för att vi ska ha koll på hur stor lokal vi behöver samt hur mycket mat som behöver beställas kör vi med anmälan till varje träff via [Meetup](https://www.meetup.com/vasteras-azure-user-group/).
+Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Att delta på en träff är helt kostnadsfritt för dig som deltagare, men för att vi ska ha koll på hur stor lokal vi behöver samt hur mycket mat som behöver beställas kör vi med anmälan till varje träff via [Meetup](https://www.meetup.com/vasteras-azure-user-group/){:target="_blank"}.
 
 ### Träffar 2022
 
@@ -21,13 +21,13 @@ Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi
 
 ## Tala
 
-Är du intresserad att tala på något av våra event? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp). Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
+Är du intresserad att tala på något av våra event? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
 
 ## Arrangörer
 
 ### Stefan Ivemo
 
-Stefan är en person som älskar nya tekniker och att lära sig förstå hur de fungerar på djupet. Sedan 2015 spenderar han nästan all sin tid med Microsoft Azure och även en liten del Microsoft 365. Han är Microsoft MVP i kategorin Azure sedan 2021. Stefan brinner starkt för open source och är aktiv contributor till flera projekt bl.a. [Bicep](https://github.com/Azure/bicep), [AzOps](https://github.com/Azure/AzOps), [PSBicep](https://github.com/PSBicep/PSBicep) och [docs.microsoft.com](https://github.com/MicrosoftDocs/azure-docs).
+Stefan är en person som älskar nya tekniker och att lära sig förstå hur de fungerar på djupet. Sedan 2015 spenderar han nästan all sin tid med Microsoft Azure och även en liten del Microsoft 365. Han är Microsoft MVP i kategorin Azure sedan 2021. Stefan brinner starkt för open source och är aktiv contributor till flera projekt bl.a. [Bicep](https://github.com/Azure/bicep){:target="_blank"}, [AzOps](https://github.com/Azure/AzOps){:target="_blank"}, [PSBicep](https://github.com/PSBicep/PSBicep){:target="_blank"} och [docs.microsoft.com](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}.
 
 ### Anders Asp
 
