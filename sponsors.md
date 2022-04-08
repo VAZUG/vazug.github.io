@@ -10,7 +10,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 
 ![Advania](./media/sponsors/advania.png "Advania")
-![Sogeti](./media/sponsors/advania.png "Sogeti")
+![Sogeti](./media/sponsors/sogeti.png "Sogeti")
 
 ## Bli en sponsor!
 
