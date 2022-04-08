@@ -1,5 +1,6 @@
 ---
 layout: default
+title_image: "https://vazug.cloud/media/vazug.jpg"
 ---
 
 # Västerås Azure User Group
