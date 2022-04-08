@@ -8,7 +8,7 @@ Välkommen till Västerås Azure User Group! Denna user group är till för att 
 
 ## Kom på en träff
 
-Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Att delta på en träff är helt kostnadsfritt för dig som deltagare, men för att vi ska ha koll på hur stor lokal vi behöver samt hur mycket mat som behöver beställas kör vi med anmälan via Eventbrite.
+Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Att delta på en träff är helt kostnadsfritt för dig som deltagare, men för att vi ska ha koll på hur stor lokal vi behöver samt hur mycket mat som behöver beställas kör vi med anmälan till varje träff via Meetup.
 
 ### Träffar 2022
 
