@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Västerås Azure User Group
-description: Your Azure meetup in the town of cucumbers! 🥒
+description: Your Azure meetup in the cucumber city! 🥒
 author: StefanIvemo
 ---
 
