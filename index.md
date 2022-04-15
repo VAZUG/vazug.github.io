@@ -31,6 +31,7 @@ Det är vi som driver Västerås Azure User Group.
 
 ### Stefan Ivemo
 
+![Stefan Ivemo](./media/organizers/ivemo.jpg "Stefan Ivemo")
 Stefan är en person som älskar nya tekniker och att lära sig förstå hur de fungerar på djupet. Sedan 2015 spenderar han nästan all sin tid med Microsoft Azure och även en liten del Microsoft 365. Han är Microsoft MVP i kategorin Azure sedan 2021. Stefan brinner starkt för open source och är aktiv contributor till flera projekt bl.a. [Bicep](https://github.com/Azure/bicep){:target="_blank"}, [AzOps](https://github.com/Azure/AzOps){:target="_blank"}, [PSBicep](https://github.com/PSBicep/PSBicep){:target="_blank"} och [docs.microsoft.com](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}.
 
 ### Anders Asp
