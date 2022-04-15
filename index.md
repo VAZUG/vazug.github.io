@@ -5,27 +5,29 @@ description: Your Azure meetup in the cucumber city! 🥒
 author: StefanIvemo
 ---
 
-# Västerås Azure User Group
+# Västerås Azure User Group ☁️
 
-Välkommen till Västerås Azure User Group! Denna user group är till för att samla IT communityn i Västerås. Gruppen drivs av communityn för communityn med målet att leverera ett förstklassigt innehåll där fokus ligger på Azure och Microsoft 365. Gruppen är öppen för allt från utvecklare, arkitekter, konsulter, tekniker, studenter, entusiaster med flera. Är du intresserad av Azure eller Microsoft 365 är detta platsen för dig!
+Välkommen till Västerås Azure User Group! Denna user group är till för att samla IT-communityn i Västerås. Gruppen drivs av communityn för communityn med målet att leverera ett förstklassigt innehåll där fokus ligger på Azure och Microsoft 365. Gruppen är öppen för alla med ett intresse av Microsoft-teknik, vare sig du är utvecklare, arkitekt, konsult, tekniker, student eller entusiast. Är du intresserad av Azure eller Microsoft 365 är detta platsen för dig!
 
-## Kom på en träff
+## Kom på en träff 👩‍💻
 
-Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Att delta på en träff är helt kostnadsfritt för dig som deltagare, men för att vi ska ha koll på hur stor lokal vi behöver samt hur mycket mat som behöver beställas kör vi med anmälan till varje träff via [Meetup](https://www.meetup.com/vasteras-azure-user-group/){:target="_blank"}.
+Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi håller inte till på en fast plats utan mötesplatsen ändras för varje tillfälle beroende på vad vi lyckas få tag i för lokal. Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Även om våra event är kostnadsfria för dig som deltagare, behöver vi ha koll på hur många som kommer så vi vet hur stor lokal vi behöver samt hur mycket mat som behöver beställas. Vi kör därför med anmälan till varje träff via [Meetup](https://www.meetup.com/vasteras-azure-user-group/){:target="_blank"}.
 
-### Träffar 2022
+### Träffar 2022 🗓️
 
-- Maj - TBD
+- Maj - 18/5 - Hotel Plaza
 - Juni - TBD
 - Augusti - TBD
 - Oktober - TBD
 - December - TBD
 
-## Tala
+## Tala 📢
 
-Är du intresserad att tala på något av våra event? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
+Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
 
-## Arrangörer
+## Arrangörer 🤓
+
+Det är vi som driver Västerås Azure User Group.
 
 ### Stefan Ivemo
 
@@ -33,8 +35,8 @@ Stefan är en person som älskar nya tekniker och att lära sig förstå hur de 
 
 ### Anders Asp
 
-...
+Anders är System Center Service Manager(SCSM) legenden som håller på att skola om sig till Azure-expert. Han är före detta Microsoft MVP och innan det även MCC (Microsoft Community Contributor), han har även skrivit två böcker på temat SCSM. Efter några år som konsultchef är han tillbaka i hetluften och fokuserar nu stenhårt på att lyfta sina kunskaper inom Azure.
 
-## Sponsorer
+## Sponsorer ❤️
 
 Är du eller din organisation intresserade av att sponsra ett event? Hör av dig på [meetup@vazug.cloud](mailto:meetup@vazug.cloud)!
