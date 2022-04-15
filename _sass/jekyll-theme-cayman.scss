@@ -143,6 +143,8 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
+  font-family: 'CaskaydiaCove NF';
+  src: url("../../assets/fonts/Caskaydia Cove Nerd Font Complete.ttf") format('truetype');
   opacity: 0.7;
 
   @include large {
