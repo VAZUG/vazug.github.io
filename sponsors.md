@@ -18,7 +18,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ## Vad innebär det att vara sponsor?
 
-Som sponsor ställer ditt företag upp med att anordna lokal, tilltugg och dryck för ett event. Lokalen får gärna vara på erat kontor om det finns utrymmer eller i någon av stadens konferensanläggningar.
+Som sponsor ställer ditt företag upp med att anordna lokal, tilltugg och dryck för ett event. Lokalen får gärna vara på erat kontor om det finns utrymme eller i någon av stadens konferensanläggningar.
 
 ## Bli en sponsor!
 
