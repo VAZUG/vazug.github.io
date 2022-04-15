@@ -12,5 +12,3 @@ Om du har närvarat på något av våra event och upplever att någon brutit mot
 
 - Fyll i detta [formulär](https://forms.office.com/r/vvfYUAJZkq). Det görs helt anonymt med möjlighet att lämna kontaktuppgifter om du vill.
 - Kontakta någon av våra arrangörer.
-
-[back](./)
