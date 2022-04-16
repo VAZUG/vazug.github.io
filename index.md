@@ -35,6 +35,7 @@ Stefan är en person som älskar nya tekniker och att lära sig förstå hur de 
 
 ### Anders Asp
 
+<img src="./media/organizers/asp.png" align="right" width="150px"/>
 Anders är System Center Service Manager(SCSM) legenden som håller på att skola om sig till Azure-expert. Han var MVP inom kategorin "Cloud and Datacenter management" i 5 år och är en erfaren talare som hållit sessioner på flera stora event såsom Ignite, TechEd NA, NIC, TechX Azure och TechDays. Han har även skrivit två böcker om SCSM. Just nu ligger fokuset på infrastruktur i Azure och en stor del infrastruktur som kod.
 
 ## Sponsorer ❤️
