@@ -17,8 +17,8 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 
 ### Träffar 2022 🗓️
 
-- Maj - 18/5 - Hotel Plaza
-- Augusti - TBD
+- [Maj - 18/5 - Hotel Plaza](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
+- Augusti - 24/8 - Sogeti (B26)
 - Oktober - TBD
 - December - TBD
 
