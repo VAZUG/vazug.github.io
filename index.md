@@ -18,7 +18,6 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 ### Träffar 2022 🗓️
 
 - Maj - 18/5 - Hotel Plaza
-- Juni - TBD
 - Augusti - TBD
 - Oktober - TBD
 - December - TBD

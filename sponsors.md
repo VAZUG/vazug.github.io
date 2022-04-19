@@ -12,7 +12,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ![Advania](./media/sponsors/advania.png "Advania")
 
-### Juni 2022
+### Augusti 2022
 
 ![Sogeti](./media/sponsors/sogeti.png "Sogeti")
 
