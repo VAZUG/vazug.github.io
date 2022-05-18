@@ -16,6 +16,10 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ![Sogeti](./media/sponsors/sogeti.png "Sogeti")
 
+### Oktober 2022
+
+![Consid](./media/sponsors/consid.png "Consid")
+
 ## Vad innebär det att vara sponsor?
 
 Som sponsor ställer ditt företag upp med att anordna lokal, tilltugg och dryck för ett event. Lokalen får gärna vara på erat kontor om det finns utrymme eller i någon av stadens konferensanläggningar.

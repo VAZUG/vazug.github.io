@@ -20,7 +20,7 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 - [Maj - 18/5 - Hotel Plaza](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
   - Strengthen your ARM using Azure Bicep - [Stefan Ivemo](https://github.com/StefanIvemo){:target="_blank"}
   - Taking Azure Container Apps for a spin - [Nils Hedström](https://github.com/nilshedstrom){:target="_blank"}
-- Augusti - 24/8 - Sogeti (B26)
+- [Augusti - 24/8 - Sogeti (B26)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
 - Oktober - TBD
 - December - TBD
 
