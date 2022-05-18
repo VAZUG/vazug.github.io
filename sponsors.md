@@ -20,6 +20,10 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ![Consid](./media/sponsors/consid.png "Consid")
 
+### December 2022
+
+Hör av dig om ni vill synas här!
+
 ## Vad innebär det att vara sponsor?
 
 Som sponsor ställer ditt företag upp med att anordna lokal, tilltugg och dryck för ett event. Lokalen får gärna vara på erat kontor om det finns utrymme eller i någon av stadens konferensanläggningar.
