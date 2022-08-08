@@ -22,7 +22,7 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
   - Taking Azure Container Apps for a spin - [Nils Hedström](https://twitter.com/NilsHedstrom){:target="_blank"}
 - [Augusti - 24/8 - Sogeti (B26)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
   - Sql Server 2022, ett steg närmare molnet - [Magnus Ahlkvist](https://twitter.com/Transmokopter){:target="_blank"}
-  - ? - [Ola Ström](https://twitter.com/olastromcom){:target="_blank"}
+  - ? - You?
 - Oktober - TBD
 - December - TBD
 
