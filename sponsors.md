@@ -22,7 +22,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ### December 2022
 
-Hör av dig om ni vill synas här!
+![Forefront](./media/sponsors/forefront.png "Forefront")
 
 ## Vad innebär det att vara sponsor?
 
