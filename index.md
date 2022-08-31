@@ -23,11 +23,14 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 - [Augusti - 24/8 - Sogeti (B26)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
   - Sql Server 2022, ett steg närmare molnet - [Magnus Ahlkvist](https://twitter.com/Transmokopter){:target="_blank"}
   - Framtiden är redan här! Hur modern security, AI och machine learning tillämpas i M365 - [Fredrik Thorild](https://twitter.com/taxonomythorild){:target="_blank"}
-- Oktober - TBD
+- Oktober - 19/10
 - December - TBD
 
 ## Tala 📢
 Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
+
+## Coworking days
+Tanken med coworking days är att man träffas arbetar som vanligt fast på en gemensam plats där vi får tillgång till varandras kunskap och gemenskap. Perfekt tillfälle att be om hjälp med något man sitter fast med, be om en granskning av en ny lösning, knyta nya kontakter, eller bara snacka skit med någon som delar samma intresse, nämligen Azure (eller M365). Vi satsar på att köra detta fyra gånger per år, håll koll på Meetup för nästa tillfälle. Till coworking days är alla välkomna oavsett erfarenhet av Azure!
 
 ## Arrangörer 🤓
 
