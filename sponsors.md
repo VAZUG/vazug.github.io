@@ -18,11 +18,11 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ### Oktober 2022
 
-![Consid](./media/sponsors/consid.png "Consid")
+![Forefront](./media/sponsors/forefront.png "Forefront")
 
 ### December 2022
 
-![Forefront](./media/sponsors/forefront.png "Forefront")
+TBD
 
 ## Vad innebär det att vara sponsor?
 
