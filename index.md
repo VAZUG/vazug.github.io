@@ -17,13 +17,15 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 
 ### Träffar 2022 🗓️
 
-- [Maj - 18/5 - Hotel Plaza](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
+- [Maj - 18/5 - Hotel Plaza (Advania)](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
   - Strengthen your ARM using Azure Bicep - [Stefan Ivemo](https://twitter.com/StefanIvemo){:target="_blank"}
   - Taking Azure Container Apps for a spin - [Nils Hedström](https://twitter.com/NilsHedstrom){:target="_blank"}
-- [Augusti - 24/8 - Sogeti (B26)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
+- [Augusti - 24/8 - B26 (Sogeti)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
   - Sql Server 2022, ett steg närmare molnet - [Magnus Ahlkvist](https://twitter.com/Transmokopter){:target="_blank"}
   - Framtiden är redan här! Hur modern security, AI och machine learning tillämpas i M365 - [Fredrik Thorild](https://twitter.com/taxonomythorild){:target="_blank"}
-- Oktober - 19/10
+- [Oktober - 19/10 - Hotel Plaza (Forefront Consulting)](https://www.meetup.com/vasteras-azure-user-group/events/288790984/){:target="_blank"}
+  - Windows 365 och varför det är coolt - [Ola Ström](https://twitter.com/olastromcom){:target="_blank"}
+  - Azure Networking for developers and other curious creatures - [StefanIvemo](https://twitter.com/StefanIvemo){:target="_blank"}
 - December - TBD
 
 ## Tala 📢

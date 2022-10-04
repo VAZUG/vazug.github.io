@@ -18,7 +18,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ### Oktober 2022
 
-![Forefront](./media/sponsors/forefront.png "Forefront")
+![Forefront](./media/sponsors/forefront.png "Forefront Consulting")
 
 ### December 2022
 
