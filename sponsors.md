@@ -22,7 +22,7 @@ Stort tack till våra sponsorer som ser till så att vi kan anordna våra Väste
 
 ### December 2022
 
-TBD
+![Consid](./media/sponsors/consid.png "Consid")
 
 ## Vad innebär det att vara sponsor?
 
