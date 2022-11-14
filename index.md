@@ -27,8 +27,9 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
   - Windows 365 och varför det är coolt - [Ola Ström](https://twitter.com/olastromcom){:target="_blank"}
   - Azure Networking for developers and other curious creatures - [StefanIvemo](https://twitter.com/StefanIvemo){:target="_blank"}
 - [December - 1/12 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/289480908/){:target="_blank"}
-  - Session 1 - TBD
-  - Session 2 - TBD
+  - Defender for DevOps - Make the west less wild! - [Björn Sundling](https://twitter.com/Bjompen){:target="_blank"}
+  - Azure Functions in Action - [Emanuel Palm](https://twitter.com/PalmEmanuel){:target="_blank"}
+  - Session 3 - TBD
 
 ## Tala 📢
 Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
