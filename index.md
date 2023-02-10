@@ -29,7 +29,7 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
 - [December - 1/12 -22 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/289480908/){:target="_blank"}
   - Defender for DevOps - Make the west less wild! - [Björn Sundling](https://twitter.com/Bjompen){:target="_blank"}
   - Azure Functions in Action - [Emanuel Palm](https://twitter.com/PalmEmanuel){:target="_blank"}
-- [Februari - 23/2 -23 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/290475762/){:target="_blank"}
+- [Februari - 23/2 -23 - Stadshotellet Västerås (Advania)](https://www.meetup.com/vasteras-azure-user-group/events/290475762/){:target="_blank"}
   - [Managing your settings in a secure way using Azure App Configuration](https://sessionize.com/s/cecilia-wiren/managing-your-settings-in-a-secure-way-using-azure/42002) - [Cecilia Wirén](https://twitter.com/CeciliaSHARP){:target="_blank"}
   - TBD
 
