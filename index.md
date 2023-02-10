@@ -5,7 +5,7 @@ description: Your Azure meetup in the cucumber city! 🥒
 author: StefanIvemo
 ---
 
-# Västerås Azure User Group ☁️
+# Västerås Azure User Group
 
 Välkommen till Västerås Azure User Group! Denna user group är till för att samla IT-communityn i Västerås med omnejd, men det spelar ingen roll var du bor, är du intresserad av att göra resan till Västerås är du välkommen! Gruppen drivs av communityn för communityn med målet att leverera ett förstklassigt innehåll där fokus ligger på Azure och Microsoft 365. Gruppen är öppen för alla med ett intresse av Microsoft-teknik, vare sig du är utvecklare, arkitekt, konsult, tekniker, student eller entusiast. Är du intresserad av Azure eller Microsoft 365 är detta platsen för dig!
 
@@ -15,21 +15,23 @@ Vi siktar på att träffas en gång varannan månad, och vi gör det fysiskt. Vi
 
 Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) som hjälper till att ordna lokaler och tilltugg inför varje träff. Även om våra event är kostnadsfria för dig som deltagare behöver vi ha koll på hur många som kommer så vi vet hur stor lokal vi behöver, samt hur mycket mat som behöver beställas. Vi kör därför med anmälan till varje träff via [Meetup](https://www.meetup.com/vasteras-azure-user-group/){:target="_blank"}.
 
-### Träffar 2022 🗓️
+### Träffar 🗓️
 
-- [Maj - 18/5 - Hotel Plaza (Advania)](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
+- [Maj - 18/5 -22 - Hotel Plaza (Advania)](https://www.meetup.com/vasteras-azure-user-group/events/285372657/?isFirstPublish=true){:target="_blank"}
   - Strengthen your ARM using Azure Bicep - [Stefan Ivemo](https://twitter.com/StefanIvemo){:target="_blank"}
   - Taking Azure Container Apps for a spin - [Nils Hedström](https://twitter.com/NilsHedstrom){:target="_blank"}
-- [Augusti - 24/8 - B26 (Sogeti)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
+- [Augusti - 24/8 -22 - B26 (Sogeti)](https://www.meetup.com/vasteras-azure-user-group/events/285953578/){:target="_blank"}
   - Sql Server 2022, ett steg närmare molnet - [Magnus Ahlkvist](https://twitter.com/Transmokopter){:target="_blank"}
   - Framtiden är redan här! Hur modern security, AI och machine learning tillämpas i M365 - [Fredrik Thorild](https://twitter.com/taxonomythorild){:target="_blank"}
-- [Oktober - 19/10 - Hotel Plaza (Forefront Consulting)](https://www.meetup.com/vasteras-azure-user-group/events/288790984/){:target="_blank"}
+- [Oktober - 19/10 -22 - Hotel Plaza (Forefront Consulting)](https://www.meetup.com/vasteras-azure-user-group/events/288790984/){:target="_blank"}
   - Windows 365 och varför det är coolt - [Ola Ström](https://twitter.com/olastromcom){:target="_blank"}
   - Azure Networking for developers and other curious creatures - [StefanIvemo](https://twitter.com/StefanIvemo){:target="_blank"}
-- [December - 1/12 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/289480908/){:target="_blank"}
+- [December - 1/12 -22 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/289480908/){:target="_blank"}
   - Defender for DevOps - Make the west less wild! - [Björn Sundling](https://twitter.com/Bjompen){:target="_blank"}
   - Azure Functions in Action - [Emanuel Palm](https://twitter.com/PalmEmanuel){:target="_blank"}
-  - Session 3 - TBD
+- [Februari - 23/2 -23 - Consid Västerås](https://www.meetup.com/vasteras-azure-user-group/events/290475762/){:target="_blank"}
+  - [Managing your settings in a secure way using Azure App Configuration](https://sessionize.com/s/cecilia-wiren/managing-your-settings-in-a-secure-way-using-azure/42002) - [Cecilia Wirén](https://twitter.com/CeciliaSHARP){:target="_blank"}
+  - TBD
 
 ## Tala 📢
 Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
