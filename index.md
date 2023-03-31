@@ -31,7 +31,10 @@ Att delta på en träff är helt gratis tack vare våra [sponsorer](./sponsors) 
   - Azure Functions in Action - [Emanuel Palm](https://twitter.com/PalmEmanuel){:target="_blank"}
 - [Februari - 23/2 -23 - Stadshotellet Västerås (Advania)](https://www.meetup.com/vasteras-azure-user-group/events/290475762/){:target="_blank"}
   - [Managing your settings in a secure way using Azure App Configuration](https://sessionize.com/s/cecilia-wiren/managing-your-settings-in-a-secure-way-using-azure/42002) - [Cecilia Wirén](https://twitter.com/CeciliaSHARP){:target="_blank"}
-  - TBD
+  - Message routing using Event Grid - [Liselotte Örtlund](https://twitter.com/LisOrtlund)
+- [April - 19/4 -23 - B26 (ATEA)](https://www.meetup.com/vasteras-azure-user-group/events/291125675/){:target="_blank"}
+  - 10 ways to make your APIs super secure  - [Mikael Sand](https://twitter.com/mikaelsand){:target="_blank"}
+  - Mastering Self-hosted Azure DevOps agents - [StefanIvemo](https://twitter.com/StefanIvemo){:target="_blank"}
 
 ## Tala 📢
 Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
