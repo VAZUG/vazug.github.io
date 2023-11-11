@@ -39,11 +39,14 @@ Att delta på en träff är helt gratis tack vare våra [partners](./sponsors) s
   - Automatisera Sementic Versioning i dina Pipelines & Artifakter  - [Samir Abdou](https://www.linkedin.com/in/samir-abdou/){:target="_blank"}
 - [September - 20/9 -23 - Omegapoint](https://www.meetup.com/vasteras-azure-user-group/events/294301461/){:target="_blank"}
   - Azure Well-Architected Framework - [Joakim Schütt](https://twitter.com/josc73){:target="_blank"} och [Magnus Pettersson](https://www.linkedin.com/in/magnus-petersson1/){:target="_blank"}
-  - TBD
+  - Exploring Big Data through Azure Data Explorer (ADX) and Kusto - [Johan Tysklind](https://www.linkedin.com/in/johantysklind/){:target="_blank"}
+- [November - 9/11 -23 - Sogeti](https://www.meetup.com/vasteras-azure-user-group/events/295524044/){:target="_blank"}
+  - What can you do with Azure OpenAI? - [Kim Berg](https://sessionize.com/kim-berg){:target="_blank"}
+  - ɡæsiːfæzdəʊ - [Björn Sundling](https://sessionize.com/bjorn-sundling/){:target="_blank"}
 
 
 ## Tala 📢
-Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}. Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
+Är du intresserad av att hålla en presentation på någon av våra träffar? Eller kanske bara köra en demo på något du byggt och vill visa upp? Hör av dig genom att fylla i [detta formulär](https://forms.office.com/r/aZG26jhRzp){:target="_blank"}, eller så kan du skicka in en session via [Sessionize](https://sessionize.com/vasteras-azure-user-group/). Vi välkomnar alla talare oavsett erfarenhet, att tala på en user group är ett väldigt bra första steg i sin utveckling som talare.
 
 ## Coworking days
 Tanken med coworking days är att man träffas arbetar som vanligt fast på en gemensam plats där vi får tillgång till varandras kunskap och gemenskap. Perfekt tillfälle att be om hjälp med något man sitter fast med, be om en granskning av en ny lösning, knyta nya kontakter, eller bara snacka skit med någon som delar samma intresse, nämligen Azure (eller M365). Vi satsar på att köra detta fyra gånger per år, håll koll på Meetup för nästa tillfälle. Till coworking days är alla välkomna oavsett erfarenhet av Azure!
